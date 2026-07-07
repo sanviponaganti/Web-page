@@ -1,0 +1,10 @@
+# Ignore local VS Code settings
+.vscode/
+.idea/
+
+# Ignore OS-specific system junk files
+.DS_Store
+Thumbs.db
+
+# Ignore log files
+*.log
