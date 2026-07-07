@@ -38,17 +38,14 @@ Experience the live website here:
 ## 📂 Project Structure
 
 ```text
-Trekko/
-│
 ├── assets/
-│   └── images/          # Website images and graphics
-│
-├── index.html           # Main HTML file
-├── style.css            # Styling and responsive layouts
-├── script.js            # JavaScript functionality
-└── README.md            # Project documentation
+│   └── images/          # Image assets (banners, destination spots, and background imagery)
+├── index.html           # Main semantic HTML entry point
+├── style.css            # Custom layout structures and animation variables
+├── script.js            # Frontend interactivity scripts
+├── .gitignore           # Specifies intentionally untracked local environment files
+└── README.md            # Comprehensive project documentation
 ```
-
 ---
 
 ## 🌟 Website Sections
